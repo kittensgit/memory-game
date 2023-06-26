@@ -15,6 +15,6 @@ import Image14 from './images/14.jpg'
 import Image15 from './images/15.jpg'
 import Image16 from './images/16.jpg'
 import Image17 from './images/17.jpg'
-import Image18 from './images/18.jpg'
+import Image18 from './images/18.jpeg'
 
 export default [Image01, Image02, Image03, Image04, Image05, Image06, Image07, Image08, Image09, Image10, Image11, Image12, Image13, Image14, Image15, Image16, Image17, Image18]

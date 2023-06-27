@@ -1,10 +1,11 @@
+import { shuffle } from 'lodash';
 import './App.css';
 import Images from './Images';
 import { useState } from 'react';
 
 function App() {
 
-  const [cards, setCards] = useState([...Images, ...Images])
+  const [cards, setCards] = useState(shuffle([...Images, ...Images]))
 
   return (
     <div className='board'>

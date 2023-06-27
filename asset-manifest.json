@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.710a0a0b.css",
+    "main.js": "/memory-game/static/js/main.fa184ea5.js",
+    "static/media/16.jpg": "/memory-game/static/media/16.e59a681657c9b77eaa56.jpg",
+    "static/media/06.jpg": "/memory-game/static/media/06.d38f990a60f354334239.jpg",
+    "static/media/03.jpeg": "/memory-game/static/media/03.7eb7169e56284de64539.jpeg",
+    "static/media/15.jpg": "/memory-game/static/media/15.74dd7f49022ac83656ea.jpg",
+    "static/media/18.jpeg": "/memory-game/static/media/18.f1377d402f20cbffa35a.jpeg",
+    "static/media/02.jpg": "/memory-game/static/media/02.2e979ed9e9197b2f4bf0.jpg",
+    "static/media/01.jpg": "/memory-game/static/media/01.37fb95071401f9faf820.jpg",
+    "static/media/10.jpg": "/memory-game/static/media/10.f60928a389362b439df8.jpg",
+    "static/media/13.jpg": "/memory-game/static/media/13.30df85048d0ecfd460cd.jpg",
+    "static/media/05.jpg": "/memory-game/static/media/05.0d872fbdd012e37020fa.jpg",
+    "static/media/17.jpg": "/memory-game/static/media/17.8c5755e205560b0e6143.jpg",
+    "static/media/14.jpg": "/memory-game/static/media/14.487665b69c9384c6bb59.jpg",
+    "static/media/09.jpg": "/memory-game/static/media/09.398bbdd085a5bda3fbbe.jpg",
+    "static/media/07.jpg": "/memory-game/static/media/07.b661e294c9955240ac3f.jpg",
+    "static/media/11.jpg": "/memory-game/static/media/11.63b742d110342c0f6528.jpg",
+    "static/media/04.jpg": "/memory-game/static/media/04.d0469a2aa0da20730d07.jpg",
+    "index.html": "/memory-game/index.html",
+    "main.710a0a0b.css.map": "/memory-game/static/css/main.710a0a0b.css.map",
+    "main.fa184ea5.js.map": "/memory-game/static/js/main.fa184ea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710a0a0b.css",
+    "static/js/main.fa184ea5.js"
+  ]
+}
